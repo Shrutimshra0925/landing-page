@@ -1,0 +1,257 @@
+.box{
+    border: 1px solid cornflowerblue;
+    background-color: cornflowerblue;
+    height: 30px;
+}
+
+ul{
+    float: left;
+    color: black;
+}
+
+ul li{
+    margin-top: -10px;
+    float: left;
+    position: relative;
+    left: 605%;
+    font-size: 15px;
+    font-family: barlow condensed,sans-serif;
+    list-style-type: none;
+    width: 100px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+h5{
+    margin-top: 1px;
+    color: black;
+    margin: 7px 12px;
+    position: relative;
+    left: -11.5%;
+    font-family: barlow condensed,sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.container{
+    border:1px solid transparent;
+    background-color: whitesmoke;
+    height:50px;
+}
+
+ol{
+    float: left;
+}
+
+ol li{
+    float: left;
+    margin: 0px 20px;
+    width: 90px;
+    position: relative;
+    left: 34%;
+    list-style-type: none;
+    font-family: barlow condensed,sans-serif;
+    font-size: 18px;
+}
+
+ol li a{
+    text-decoration: none;
+    color: black;
+}
+
+ol li a:hover{
+    border-bottom: 4px solid red ;
+    
+}
+
+.fa-search{
+    position: absolute;
+    left: 85%;
+    top: 8%;
+    color: black;
+
+}
+
+.fa-user{
+    position: absolute;
+    left: 89%;
+    top: 8%;
+    color: black;
+}
+
+.fa-cart-shopping{
+    position: absolute;
+    left: 92.5%;
+    top: 8%;
+    color: black;
+    width: 25px;
+    height: -30px;
+    border-radius: 100px;
+    background-color: navajowhite;
+    margin-top: -2px;
+    margin-left: -4px;
+    text-align: left;
+}
+
+h3{
+    color:red;
+    position: absolute;
+    left:93.5%;
+    top: 3.6%;
+    width: 10px;
+    height: -20px;
+    border-radius: 100px;
+    text-align: center;
+    font-family: barlow condensed,sans-serif;
+}
+
+h2{
+    position: relative;
+    left: -58.3%;
+    font-family: barlow condensed,sans-serif;
+    margin: 0px 0px;
+    font-weight: bolder;
+    font-size: 45px;
+    font: bolder;
+}
+
+font{
+    color: red;
+}
+
+.cover img{
+    background-size: cover;
+}
+
+.content{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+.content p{
+    font-size: 20px;
+    color: lightcyan;
+}
+
+h1{
+    font-size: 70px;
+    font-weight: 100;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    color: seashell;
+    word-spacing: 0px;
+    font-weight: normal;
+    line-height: 70px;
+}
+
+h4{
+    position: absolute;
+    bottom:-10%;
+    font-size: 15px;
+    font: italic;
+    font-weight: 2%;
+    color:snow;
+    left: 30%;
+    background-color: brown;
+    letter-spacing: 2px;
+}
+
+form input[type="submit"]{
+    position: absolute;
+    top:105%;
+    padding: 15px;
+    text-transform: uppercase;
+    background-color: crimson;
+    border: none;
+    color:whitesmoke;
+    font-family: bolder;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+form input[type="submit"]:hover{
+    background-color: orangered;
+}
+
+.image22{
+    position: absolute;
+    left: 10%;
+    top: 135%;
+    border: 4px solid darkgray;
+    box-shadow: 1px 2px 4px;
+}
+
+h6{
+    color: black;
+    position: absolute;
+    left:20%;
+    top:65%;
+    border:1px solid whitesmoke;
+    width: 200px;
+    font-size: 40px;
+    font-family: barlow condensed,sans-serif;
+    background-color: white;
+    font-weight: normal;
+    text-align: center;
+} 
+
+.image22:hover{
+    box-shadow: 3px 5px 15px;
+}
+
+.image23{
+    position: absolute;
+    left: 40%;
+    top: 135%;
+    border: 4px solid darkgray;
+    box-shadow: 1px 2px 4px;
+}
+
+
+.image23:hover{
+    box-shadow: 3px 5px 15px;
+}
+
+h{
+    color: black;
+    position: absolute;
+    left:20%;
+    top:95%;
+    border:1px solid whitesmoke;
+    width: 200px;
+    font-size: 40px;
+    font-family: barlow condensed,sans-serif;
+    background-color: white;
+    font-weight: normal;
+    text-align: center;
+} 
+    
+.image24{
+    position: absolute;
+    left: 70%;
+    top: 135%;
+    border: 4px solid darkgray;
+    box-shadow: 1px 2px 4px;
+}
+
+
+.image24:hover{
+    box-shadow: 3px 5px 15px;
+}
+
+t{
+    color: black;
+    position: absolute;
+    left:20%;
+    top:95%;
+    border:1px solid whitesmoke;
+    width: 200px;
+    font-size: 40px;
+    font-family: barlow condensed,sans-serif;
+    background-color: white;
+    font-weight: normal;
+    text-align: center;
+} 
